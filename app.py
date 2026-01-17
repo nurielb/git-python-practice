@@ -7,4 +7,4 @@ def greet(name):
 
 if __name__ == "__main__":
     user = "World"
-    print(greet(user))
+    print(greet(user))# new line
